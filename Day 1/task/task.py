@@ -1,0 +1,6 @@
+first_name = input("Hi, What's your first name?\n")
+surname = input("What's your surname?\n")
+print("Welcome to Burgeon, " + first_name + " " + surname + "!")
+print("I'll love to get to know you more.")
+skill = input("What's your major skillset or the one you plan to be good at?\n")
+print("That's awesome, " + first_name + ".\n" + "You can build a lot of things and even make a lot of money with " + skill + ".\n" + "Just remember to keep getting better as you learn and earn.\nThat's the trick!")
